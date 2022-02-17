@@ -33,7 +33,7 @@ employee_1 = Employee("Md", "Khan", 100000)
 employee_2 = Employee("Alex", "Jurdo", 100000)
 
 # print(Employee.total_employee)
-# print(employee_1.total_employee)
+print(employee_1.total_employee)
 
 # print(employee_1.email)
 # print(employee_1.getFullName())
